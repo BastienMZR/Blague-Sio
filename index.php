@@ -1,4 +1,7 @@
 <?php
+
+// salut les moches
+
 if(!isset($_SESSION)) session_start();
 
 
